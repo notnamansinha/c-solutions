@@ -12,7 +12,7 @@ after the decimal point.
 after the decimal point.
 
 ### Solution
-(a) `printf("%8.1e", x);`  
-(b) `printf("%-10.6e", x);`  
-(c) `printf("%8.3f", x);`  
-(d) `printf("%-6.0f", x);`
+(a) `printf("%-8.1e", x);`  
+(b) `printf("%10.6e", x);`  
+(c) `printf("%-8.3f", x);`  
+(d) `printf("%6.0f", x);`
